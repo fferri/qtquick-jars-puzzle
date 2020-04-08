@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sink.svg</file>
+        <file>jar-empty.svg</file>
+        <file>jar-full.svg</file>
+        <file>faucet.svg</file>
+        <file>Faucet.qml</file>
+        <file>Jar.qml</file>
+        <file>Sink.qml</file>
+    </qresource>
+</RCC>
